@@ -56,10 +56,16 @@ Train:
 ## Evaluating
 
 ```bash
-./eval.py --eval_train --checkpoint_dir="./runs/1459637919/checkpoints/"
-```
+#chỉnh sửa đường dẫn của checkpoint_dir và checkpoint_path tới đường dẫn checkpoint đã thu được trong quá trình training trong file predict.py
+python3 ./predict.py
 
-Replace the checkpoint dir with the output from the training. To use your own data, change the `eval.py` script to load your data.
+```
+#Testing
+'''
+./eval.py 
+'''bash
+#chỉnh sửa đường dẫn của checkpoint_dir và checkpoint_path tới đường dẫn checkpoint đã thu được trong quá trình training trong file eval.py
+chạy lệnh python3 .eval.py để test câu.nếu nhấn enter 2 lần thì chương trình sẽ dừng.
 
 
 ## References
