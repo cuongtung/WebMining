@@ -1,0 +1,107 @@
+﻿1.601 step :accuracy  0.782353
+Precision positive:  0.7790697674418605
+Recall positive:  0.788235294117647
+F1 positive:  0.7836257309941521
+Precision nagetive:  0.7857142857142857
+Recall nagetive:  0.7764705882352941
+F1 nagetive:  0.7810650887573966
+Total number of test examples: 170
+Accuracy: 0.782353
+Saving evaluation to ./runs/1543939127/prediction.csv
+2.701 step :accuracy  0.823529
+Precision positive:  0.8021978021978022
+Recall positive:  0.8588235294117647
+F1 positive:  0.8295454545454546
+Precision nagetive:  0.8481012658227848
+Recall nagetive:  0.788235294117647
+F1 nagetive:  0.8170731707317074
+Total number of test examples: 170
+Accuracy: 0.823529
+Saving evaluation to ./runs/1543941207/prediction.csv
+3.801:accuracy  0.811765
+Precision positive:  0.7849462365591398
+Recall positive:  0.8588235294117647
+F1 positive:  0.8202247191011236
+Precision nagetive:  0.8441558441558441
+Recall nagetive:  0.7647058823529411
+F1 nagetive:  0.8024691358024691
+Total number of test examples: 170
+Accuracy: 0.811765
+Saving evaluation to ./runs/1543942785/prediction.csv
+4. 4_epochs:accuracy  0.711765
+Precision positive:  0.7727272727272727
+Recall positive:  0.6
+F1 positive:  0.6754966887417219
+Precision nagetive:  0.6730769230769231
+Recall nagetive:  0.8235294117647058
+F1 nagetive:  0.7407407407407408
+Total number of test examples: 170
+Accuracy: 0.711765
+Saving evaluation to ./runs/1543944111/prediction.csv
+
+5. 10 epochs:accuracy  0.841176
+Precision positive:  0.8085106382978723
+Recall positive:  0.8941176470588236
+F1 positive:  0.8491620111731844
+Precision nagetive:  0.881578947368421
+Recall nagetive:  0.788235294117647
+F1 nagetive:  0.8322981366459626
+Total number of test examples: 170
+Accuracy: 0.841176
+Saving evaluation to ./runs/1543965393/prediction.csv
+
+6. 7 epochs :accuracy  0.8
+Precision positive:  0.8227848101265823
+Recall positive:  0.7647058823529411
+F1 positive:  0.7926829268292683
+Precision nagetive:  0.7802197802197802
+Recall nagetive:  0.8352941176470589
+F1 nagetive:  0.8068181818181818
+Total number of test examples: 170
+Accuracy: 0.8
+Saving evaluation to ./runs/1543966373/prediction.csv
+
+7. 11 epochs :accuracy  0.794118
+Precision positive:  0.8048780487804879
+Recall positive:  0.7764705882352941
+F1 positive:  0.7904191616766466
+Precision nagetive:  0.7840909090909091
+Recall nagetive:  0.8117647058823529
+F1 nagetive:  0.7976878612716763
+Total number of test examples: 170
+Accuracy: 0.794118
+Saving evaluation to ./runs/1543967281/prediction.csv
+
+8. 9 epochs: accuracy  0.829412
+Precision positive:  0.8181818181818182
+Recall positive:  0.8470588235294118
+F1 positive:  0.8323699421965318
+Precision nagetive:  0.8414634146341463
+Recall nagetive:  0.8117647058823529
+F1 nagetive:  0.8263473053892215
+Total number of test examples: 170
+Accuracy: 0.829412
+Saving evaluation to ./runs/1543968787/prediction.csv
+
+9. 8 epochs :accuracy  0.758824
+Precision positive:  0.8235294117647058
+Recall positive:  0.6588235294117647
+F1 positive:  0.7320261437908496
+Precision nagetive:  0.7156862745098039
+Recall nagetive:  0.8588235294117647
+F1 nagetive:  0.7807486631016043
+Total number of test examples: 170
+Accuracy: 0.758824
+Saving evaluation to ./runs/1544001397/prediction.csv
+
+10. 10 epochs :accuracy  0.747059
+Precision positive:  0.8
+Recall positive:  0.6588235294117647
+F1 positive:  0.7225806451612903
+Precision nagetive:  0.71
+Recall nagetive:  0.8352941176470589
+F1 nagetive:  0.7675675675675675
+Total number of test examples: 170
+Accuracy: 0.747059
+Saving evaluation to ./runs/1544002567/prediction.csv
+
